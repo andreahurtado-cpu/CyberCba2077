@@ -41,7 +41,7 @@ Es un laboratorio vivo donde cada estructura que implementes tendrá impacto rea
 - Luis Enrique Palacio ([@luis-palacio-unc](https://github.com/luis-palacio-unc)) - Desarrollador
 - Pilar Fernandez Bonilla([@Pilarfbonilla](https://github.com/Pilarfbonilla))-Desarrollador
 - Ángela Marioni ([@Angela-M-01](https://github.com/Angela-M-01)) - Desarrollador
-
+- Matias Martin Fenizi ([@matiasfenizi-a11y](https://github.com/matiasfenizi-a11y)) - Desarrollador
 
 ---
 
