@@ -1,4 +1,4 @@
-# 🌆 Cyberpunk Córdoba 2077 ![CI](https://github.com/<owner>/<repo>/actions/workflows/ci.yml/badge.svg)
+# 🌆 Cyberpunk Córdoba 2077 ![CI](https://github.com/GabrielEValenzuela/CyberCba2077/actions/workflows/ci.yml/badge.svg)
 
 > Año 2077.  
 > Córdoba ya no es la que conocías.  
@@ -28,12 +28,12 @@ Es un laboratorio vivo donde cada estructura que implementes tendrá impacto rea
 - Leandro Bassi ([@LeandroBassi](https://github.com/LeandroBassi)) - Desarrollador
 - Agustina Marasini ([@agustinaa-arch](https://github.com/agustinaa-arch)) - Desarrollador
 - Marcos Bravin ([@marcosbravin7](https://github.com/marcosbravin7)) - Desarrollador
-- Agustin Mella Romero ([@mellantastico](https://github.com/Mellantastico)) - Humungosaurio-
+- Agustin Mella Romero ([@mellantastico](https://github.com/Mellantastico)) - Desarrollador
 - Santiago Fernandez ([@SantiFernandezGit](https://github.com/SantiFernandezGit)) - Desarrollador
 - Alejo Sosa Luna ([@asosalunaa](https://github.com/asosalunaa)) - Desarrollador
 - Lautaro Perez ([@Lautazz11](https://github.com/Lautazz11)) - Desarrollador
 - Alejo Sosa Luna ([@asosalunaa](https://github.com/asosalunaa)) - Desarrollador 
--Juani Aguero ([@juaniaguero](https://github.com/juaniaguero)) - Desarrollador
+- Juani Aguero ([@juaniaguero](https://github.com/juaniaguero)) - Desarrollador
 - Valentin Suppo ([@valesppo](https://github.com/valesppo)) - Desarrollador
 - Benjamin Vasconsellos ([@benjaminvasconsellos](https://github.com/benjaminvasconsellos)) - Desarrollador
 - Santiago Riera ([@SantiiRiera](https://github.com/SantiiRiera)) - Desarrollador
