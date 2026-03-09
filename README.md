@@ -26,6 +26,7 @@ Es un laboratorio vivo donde cada estructura que implementes tendrá impacto rea
 - Leandro Bassi ([@LeandroBassi](https://github.com/LeandroBassi)) - Desarrollador
 - Agustina Marasini ([@agustinaa-arch](https://github.com/agustinaa-arch)) - Desarrollador
 - Marcos Bravin ([@marcosbravin7](https://github.com/marcosbravin7)) - Desarrollador
+- Agustin Mella Romero ([@mellantastico](https://github.com/Mellantastico)) - Humungosaurio-
 - Santiago Fernandez ([@SantiFernandezGit](https://github.com/SantiFernandezGit)) - Desarrollador
 - Alejo Sosa Luna ([@asosalunaa](https://github.com/asosalunaa)) - Desarrollador
 - Lautaro Perez ([@Lautazz11](https://github.com/Lautazz11)) - Desarrollador
